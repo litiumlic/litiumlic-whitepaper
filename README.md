@@ -35,3 +35,10 @@ Business ID: 3504800-4
 Address: Monnankatu 21 B 4, 26660 Rauma, Finland  
 Email: [info@litiumlic.com](mailto:info@litiumlic.com)  
 Website: [https://www.litiumlic.com](https://www.litiumlic.com)
+
+---
+
+## Proof of Integrity
+**File:** Litium_Whitepaper_2025_11_02.pdf  
+**SHA256:** 740c2cfeb5bf04e2c4a9b2e708d4dfa8d6c433b713c3834a2cc8de09902bba60
+
